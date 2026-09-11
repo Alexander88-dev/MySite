@@ -1,1 +1,11 @@
-# MySite
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Заголовок страницы</title>
+</head>
+<body>
+   <h1>Страница</h1>
+   <p>Эта первая страница</p>
+</body>
+</html>
